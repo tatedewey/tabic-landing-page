@@ -97,4 +97,4 @@ This template is provided for your use. You are free to modify and adapt it for 
 
 ---
 
-Created for Tabic - Handmade Tide Clocks and Barometers from Cornwall, UK. 
+Created for Tabic - Handmade Tide Clocks and Barometers from Lancashire, UK. 
